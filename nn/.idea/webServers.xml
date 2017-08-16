@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9ca56565-32fb-4eec-894a-64b8262f0899" name="NCSU_server" url="http://autocon.ce.ncsu.edu">
+        <fileTransfer host="autocon.ce.ncsu.edu" port="24" rootFolder="/home/pchen11" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="24" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

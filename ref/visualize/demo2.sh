@@ -1,0 +1,1 @@
+qlua demo_sim.lua -d ./model/ -m new --net best-v4
